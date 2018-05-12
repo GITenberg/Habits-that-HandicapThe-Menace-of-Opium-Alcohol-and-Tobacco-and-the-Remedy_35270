@@ -1,0 +1,28 @@
+_repo: Habits-that-HandicapThe-Menace-of-Opium-Alcohol-and-Tobacco-and-the-Remedy_35270
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Towns, Charles Barnes
+    alias: Towns, Charles B.
+    birthdate: 1862
+    gutenberg_agent_id: '37569'
+    url: http://www.gutenberg.org/2009/agents/37569
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tobacco use'
+- !lcsh 'Alcoholism'
+- !lcsh 'Opium abuse -- United States'
+- !lcc 'RC'
+title: 'Habits that Handicap: The Menace of Opium, Alcohol, and Tobacco, and the Remedy'
+url: http://www.gutenberg.org/ebooks/35270
